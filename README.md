@@ -83,8 +83,3 @@ vim.cmd.colorscheme("sugarplum")
 
 - https://github.com/tiagovla/tokyodark.nvim
 
----
-
-## License
-
-MIT © Brijraj Singh Bhati
