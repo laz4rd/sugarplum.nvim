@@ -13,7 +13,7 @@
 ## Preview
 
 <p align="center">
-  <img src="public/screenshot.png" alt="Sugarplum Preview" width="800"/>
+  <img src="public/demo.png" alt="Sugarplum Preview" width="800"/>
 </p>
 
 ---
@@ -70,8 +70,8 @@ vim.cmd.colorscheme("sugarplum")
 
 ## Palette
 
-| Role        | Color |
-|------------|------|
+| Role       | Color     |
+| ---------- | --------- |
 | Background | `#111147` |
 | Foreground | `#db7ddd` |
 | Accent     | `#53b397` |
@@ -82,4 +82,3 @@ vim.cmd.colorscheme("sugarplum")
 ## Inspiration
 
 - https://github.com/tiagovla/tokyodark.nvim
-
