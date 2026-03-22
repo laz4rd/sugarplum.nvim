@@ -8,7 +8,7 @@ Using LazyVim or Packer:
 
 ```lua
 {
-  "yourusername/sugarplum.nvim",
+  "laz4rd/sugarplum.nvim",
   config = function()
     require("sugarplum").setup()
   end
