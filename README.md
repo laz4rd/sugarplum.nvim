@@ -79,6 +79,4 @@ vim.cmd.colorscheme("sugarplum")
 
 ---
 
-## Inspiration
-
-- https://github.com/tiagovla/tokyodark.nvim
+<h1 align="center">Have Fun</h1>
