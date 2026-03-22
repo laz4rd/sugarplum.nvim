@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="Sugarplum Logo" width="140"/>
+  <img src="public/logo.png" alt="Sugarplum Logo" width="500"/>
 </p>
 
 <h1 align="center">sugarplum.nvim</h1>
